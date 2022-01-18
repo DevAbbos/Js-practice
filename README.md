@@ -1,2 +1,7 @@
-# js_practise_starter_file
-JavaScript tutorial for begginers starter file
+# JavaScript практика
+Привет. Добро пожаловать ! 
+Эта практика на JavaScript
+Использовал : 
+▪️ HTML
+▪️ CSS
+▪️ JavaScript
